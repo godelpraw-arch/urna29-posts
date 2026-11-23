@@ -3,10 +3,11 @@
   "id": "2026-11-23-supremo-puigdemont",
   "titular": "El Supremo archiva la causa de Puigdemont",
   "fuentes": [
-   "Diari Més",
+   "elEconomista",
    "Estrella Digital"
   ],
-  "fecha_utc": "2026-11-23T15:17:29+00:00"
+  "fecha_utc": "2026-11-23T17:28:13+00:00",
+  "guid": "2026-11-23-supremo-puigdemont-ig"
  },
  {
   "id": "2026-11-23-cis-29n",
@@ -15,7 +16,8 @@
    "Infobae",
    "Demócrata"
   ],
-  "fecha_utc": "2026-11-23T13:21:54+00:00"
+  "fecha_utc": "2026-11-23T13:21:54+00:00",
+  "feed": false
  },
  {
   "id": "2026-11-22-ultimo-domingo-29n",
