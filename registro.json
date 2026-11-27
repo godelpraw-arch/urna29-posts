@@ -1,5 +1,19 @@
 [
  {
+  "id": "2026-11-27-debate-frase-a-frase",
+  "titular": "El debate, frase a frase",
+  "fuentes": [
+   "INE",
+   "BOE",
+   "Maldita",
+   "elDiario.es",
+   "The Objective",
+   "Vozpópuli"
+  ],
+  "fecha_utc": "2026-11-27T14:57:38+00:00",
+  "enfoque": "institucional"
+ },
+ {
   "id": "2026-11-26-congreso-convalida-cinco-decretos",
   "titular": "El Congreso convalida cinco decretos",
   "fuentes": [
