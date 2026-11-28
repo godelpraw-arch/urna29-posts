@@ -1,5 +1,15 @@
 [
  {
+  "id": "2026-11-28-horario-votacion-29n",
+  "titular": "Mañana se vota de 9 a 20",
+  "fuentes": [
+   "Ayuntamiento de Pamplona",
+   "Demócrata"
+  ],
+  "fecha_utc": "2026-11-28T07:19:19+00:00",
+  "enfoque": "institucional"
+ },
+ {
   "id": "2026-11-27-jec-votos-ley-nietos",
   "titular": "La JEC aparta los votos de nietos",
   "fuentes": [
